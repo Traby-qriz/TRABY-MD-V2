@@ -22,7 +22,7 @@ Welcome to my awesome project! Here you'll find...
 
 Check out my YouTube channel for tutorials and more!
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://youtube.com/@traby_casper?si=Vx9l7My72beAn1rI)
 ## WhatsApp Channel
 
 Join our WhatsApp channel for updates and discussions!
@@ -32,7 +32,7 @@ Join our WhatsApp channel for updates and discussions!
 
 Join our WhatsApp support group for assistance and discussions!
 
-[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8)
+[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VacVIGP9hXF6X0OjH71s)
 
 #### SETUP
 
