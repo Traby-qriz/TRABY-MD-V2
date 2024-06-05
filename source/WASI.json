@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Wasi-md-v2",
-    "theme": "wasi-md-v2",
+    "AUTHOR": " 𝑇𝑅𝐴𝐵𝐶-md-v2",
+    "theme": "TRABY-md-v2",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -31,9 +31,9 @@
             "antlink": "Link Detected.\n*I Have rremoved the violator*",
             "session": "\n kepp your session id safe sir",
             "mention": "Tag my owner",
-            "title": "WASIV2",
+            "title": "TRABYV2",
             "footer": "WASI",
-            "by": "Made by: wasi",
+            "by": "Made by: casper",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
