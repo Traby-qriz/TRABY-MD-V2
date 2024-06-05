@@ -1,5 +1,5 @@
 {
-  "name": "wasi-md-v2",
+  "name": "traby-md-v2",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "𝐓𝐑𝐀𝐁𝐘-𝐓𝐄𝐂𝐇",
       "required": true
     },
     "CAPTION" : {
@@ -26,8 +26,8 @@
 
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
 
     "GOODBYE": {
@@ -38,7 +38,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "𝐓𝐑𝐀𝐁𝐘-𝐌𝐃-𝐕2"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -77,7 +77,7 @@
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "MSGS_IN_LOG": {
@@ -92,8 +92,8 @@
     },
     "DISABLE_PM": {
       "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
@@ -101,7 +101,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "254732982940"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -109,17 +109,17 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "WASI",
-      "required": false
+      "value": "TRABY",
+      "required": true
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
-      "required": false
+      "value": "CASPER",
+      "required": true
     }
   },
   "addons": [{ "plan": "heroku-postgresql:essential-0" }],
