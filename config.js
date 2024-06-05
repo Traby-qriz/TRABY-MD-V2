@@ -27,8 +27,8 @@ global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github = process.env.GITHUB || "https://github.com/Itxxwasi/WASI-MD-V2";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VacVIGP9hXF6X0OjH71s";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VacVIGP9hXF6X0OjH71s";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
 global.devs = "923135673658";
 global.sudo = process.env.SUDO || "923135673658,923192173398";
@@ -63,7 +63,7 @@ module.exports = {
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐂𝐀𝐒𝐏𝐄𝐑-𝐌𝐃-𝐕2😍",
   author: process.env.PACK_AUTHER || "𝐂𝐀𝐒𝐏𝐄𝐑",
-  packname: process.env.PACK_NAME || "♥️",
+  packname: process.env.PACK_NAME || "🆃🆁🅰🅱🆈 🅲🅰🆂🅿🅴🆁",
   botname: process.env.BOT_NAME || "𝗧𝗥𝗔𝗕𝗬-𝐌𝐃-𝐕2",
   ownername: process.env.OWNER_NAME || "TRABY",
   errorChat: process.env.ERROR_CHAT || "923192173398",
