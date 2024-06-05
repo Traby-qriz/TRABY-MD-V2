@@ -48,7 +48,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
-global.read_status_from = process.env.READ_STATUS_FROM || "";
+global.read_status_from = process.env.READ_STATUS_FROM || "true";
 
 global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://wasimdscanner-68feefafb737.herokuapp.com/";
@@ -66,7 +66,7 @@ module.exports = {
   packname: process.env.PACK_NAME || "🆃🆁🅰🅱🆈 🅲🅰🆂🅿🅴🆁",
   botname: process.env.BOT_NAME || "𝗧𝗥𝗔𝗕𝗬-𝐌𝐃-𝐕2",
   ownername: process.env.OWNER_NAME || "TRABY",
-  errorChat: process.env.ERROR_CHAT || "923192173398",
+  errorChat: process.env.ERROR_CHAT || "254732982940",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
