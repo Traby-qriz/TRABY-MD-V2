@@ -17,6 +17,11 @@
       "value" : "Downloaded by wasi md",
       "required" : false
     },
+     "THEME" : {
+      "description": "ADD YOUR FAVORITE THEME AVAILABLE THEME ARE E.G BTS ,WASI ,SIGMA, ISLAMIC theme name should be capital latter's  ",
+      "value": "WASI",
+      "required" : false 
+    },
     
     "IMAGE" : {
       "description": "THUMB IMAGE FOR BOT ",
